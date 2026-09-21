@@ -48,7 +48,7 @@ The official web platform for **Divyachethana Souhardha Sahakari Sangha Niyamith
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Get Started
 
 ### Prerequisites
 - A local server environment (XAMPP, WAMP, or MAMP)
